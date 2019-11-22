@@ -12,6 +12,6 @@ let slideData = [
     { src: 'butte.jpg' },
     { src: 'dino-prints.jpg' },
     { src: 'future-fossils.jpg' },
-}
+]
 
 export default slideData
